@@ -1,14 +1,19 @@
-# Probability and statistics
+<html>
+<h1 >Probability and statistics</h1>
 
-##Discrete variables
-         - Probability mass function
+<h2>Discrete variables</h2>
+     <ul>
+     <li>Probability mass function</li> 
+     </ul>
 
- ##Continious Random variables
-          -Probability density function (non-zero and integrates to one)
-          -Mean , mode , median of X
-          -Standard deviation and variance of X
-          -Transformations
-          -Cumulative Distribution Function
-
-###Probabilty distributions
-          -
+ <h2>Continious Random variables</h2>
+ <ul>
+          <li>Probability density function (non-zero and integrates to one)</li>
+          <li>Mean , mode , median of X</li>
+          <li>Standard deviation and variance of X</li>
+          <li>Transformations</li>
+          <li>Cumulative Distribution Function</li>
+</ul>
+<h2>Probabilty distributions</h2>
+          
+<html>
