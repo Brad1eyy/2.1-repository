@@ -15,5 +15,8 @@
           <li>Cumulative Distribution Function</li>
 </ul>
 <h2>Probabilty distributions</h2>
+        <li>Normal Distribution</li>
+        <li>Uniform Distribution</li>
+        <li>Poisson Distribution</li>
           
 <html>
