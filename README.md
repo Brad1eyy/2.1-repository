@@ -1,3 +1,5 @@
+DISCLAIMER: You do not have to do fork this or download this in your machine because that takes a lot of storage , you also do not have to read anything below this disclaimer , do not try to play videos from here because most are compresssed by github , you can read the notes from here though if you wanted to but the most important thing is , just copy the link in the instructions.txt file in the course_outline for this coourse to get the notebook for that particular course , all notes and videos are available in those notebooks for each course , all course outlines
+
 # 2.1-repository
 <html>
 <p>
