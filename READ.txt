@@ -1,0 +1,14 @@
+DISCLAIMER : the editing of this file or any other files may be awful , i do not hace enough time to make it into a HTML  page yet , so bare with me 
+
+WHY IS ALL THIS NECESSARY:
+
+I intend this to be a big reposotory for all semesters until fourth year, beginnnig from 2.1. to 4.2 (hopefully)
+I beleive it is helpful for some reasons :
+      1. What happens if you reach the final year and you realise , i have a missing mark or a supplimentary from year 2 , maybe 3.1 ? Your first instinct most probably (most of you so far) is to contact the classrep and ask him/ her for the exam timetable for that exam and the          lecturere's number , but more often than not , i do not have that timetable , and if i do , i have to scroll past a very unhealthy amount of CERA IMANI photos to get it and to be honest , i don't want that , and i lose lecturer numbers more often than i can think , but           what if all the lecturer numbers were in a single repo? what if all timetables , both exam and semester timetables were in one repo ? makes our work far much easier , for both of us , everyone gets time to do what they love .
+
+      2. Its a little bit too late for this but we really do not want to attend every class on the timetable and we do not even have to , so imagine that for each class starting next year , every class someone attends and the lecturer is one of those who loves dictating notes ,           the people with the best notes can create a PR  and i will approve the best and at the end of the semester , no one will have to worry where they are going to get notes , for instance , i know in some weeks to come , everyone will be blowing up to me because they want           notes that i do not even have and more often than not , it reflects incompetence on my part , or at least that is how they make it look like . Nice move John Doe , i am the incompetent one and i am not  the one desperate for notes , it's a free country though 
+      3. In a nutshell , this repo has most things you would ask me , making my work easier , you just have to be good at navigation 
+
+
+I am not forcing this repo on anyone , i do not intend it to be an everyday tool , it can though if you want it to but mostly i want it to be for reference , i am hosting it on github because i want it to be dynamic
+

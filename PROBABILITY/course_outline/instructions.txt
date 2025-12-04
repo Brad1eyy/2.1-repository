@@ -1,0 +1,7 @@
+the course outline for this course together and every other resource of the course as provided by the lecturer is in NOTEBOOK LM
+
+Navigation is easy.i reccomend using a laptop for this since you get more display real estate but even if you are on a mobile device , navigate to sources to see all the sources shared by the lecturer , you can add your own , and if you go to studio , you can see the mind map , which is an interactive highlight of the subtopics and topics covered on the course curated by an AI model from a dataset provided by the lecturer ....you can do far much more with notebook LM but that is beyond my responsibility 
+
+The link for the notebook for linear Probability and Statistics II is : https://notebooklm.google.com/notebook/03d848c6-3137-42df-bb86-c4bf58f24ace
+
+copy it into your browser
